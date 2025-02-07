@@ -1,5 +1,5 @@
 # SOG CBA Settings
-#Usage
+# Usage
 Download entire directory and load as mod on server ONLY.
 
 
