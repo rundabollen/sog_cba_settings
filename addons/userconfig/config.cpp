@@ -6,6 +6,6 @@ class CfgPatches {
         requiredVersion = 1.0;
         requiredAddons[] = {"cba_settings"};
         author = "rund";
-        url = "https://github.com/rundabollen";
+        url = "http://sogclan.org/";
     };
 };
