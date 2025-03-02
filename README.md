@@ -3,7 +3,7 @@
 Download entire directory and load as mod on server ONLY.
 
 # Modifying settings
-userconfig\cba_settings.sqf
+See the file: userconfig\cba_settings.sqf
 
 # Credits
 Shamelessly copied from https://github.com/Anrop/Anrop-CBA-Settings.
