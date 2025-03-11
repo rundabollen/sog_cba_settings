@@ -78,7 +78,7 @@ force ace_csw_progressBarTimeCoefficent = 1;
 // ACE Dragging
 force ace_dragging_allowRunWithLightweight = true;
 force ace_dragging_skipContainerWeight = false;
-force ace_dragging_weightCoefficient = 2; //Players can move heavier containers than default. Value goes from 0.0 -> 2.0
+force ace_dragging_weightCoefficient = 0; //Modifies weight limit calculations. Set to 0 to ignore. Value goes from 0.0 -> 2.0
 
 // ACE Explosives
 force ace_explosives_customTimerMax = 900;
